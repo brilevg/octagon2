@@ -19,7 +19,7 @@ create_book(
     session,
     "Python Crash Course",
     "Python for beginners",
-    35.5,
+    89,
     "",
     programming,
 )
@@ -28,7 +28,7 @@ create_book(
     session,
     "Fluent Python",
     "Advanced Python",
-    60,
+    141,
     "",
     programming,
 )
@@ -46,7 +46,7 @@ create_book(
     session,
     "Mastering SQL",
     "Complete SQL",
-    39,
+    67,
     "",
     database,
 )
